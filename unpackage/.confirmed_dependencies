@@ -1,0 +1,608 @@
+{
+  "sc/detail.html": {
+    "href": "sc/detail.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/css/swiper.min.css",
+      "sc/js/jquery.min.js",
+      "sc/js/swiper.min.js",
+      "sc/images/detail-left.png",
+      "sc/images/shopbar.png",
+      "sc/images/detail-heart-hei.png",
+      "sc/images/detail-pp01.png",
+      "sc/images/detail-pp02.png",
+      "sc/images/detail-pp03.png",
+      "sc/images/detail-pp04.png",
+      "sc/images/detail-ban02.png",
+      "sc/images/detail-ban01.png",
+      "sc/images/detail-ban03.png",
+      "sc/images/detail-ban04.png",
+      "sc/images/detail-tou.png",
+      "sc/images/detail-iocn01.png",
+      "sc/images/detail-iocn001.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/buy.html"
+    ],
+    "priority": 0
+  },
+  "sc/go-address.html": {
+    "href": "sc/go-address.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "sc/buy.html": {
+    "href": "sc/buy.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/map-icon.png",
+      "sc/images/write.png",
+      "sc/images/detail-pp01.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/detail.html",
+      "sc/go-address.html"
+    ],
+    "priority": 0
+  },
+  "sc/sign.html": {
+    "href": "sc/sign.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/login.png",
+      "sc/images/password.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "sc/login.html": {
+    "href": "sc/login.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/login.png",
+      "sc/images/password.png"
+    ],
+    "refer": [
+      "sc/index.html",
+      "sc/sign.html"
+    ],
+    "priority": 0
+  },
+  "sc/tixian.html": {
+    "href": "sc/tixian.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png"
+    ],
+    "refer": [
+      "sc/shopcar.html"
+    ],
+    "priority": 0
+  },
+  "sc/fx-center1.html": {
+    "href": "sc/fx-center1.html",
+    "resources": [
+      "sc/js/jquery-1.8.3.min.js",
+      "sc/js/hmt.js",
+      "sc/css/base.css",
+      "sc/css/base1.css",
+      "sc/css/common.css",
+      "sc/css/style.css",
+      "sc/images/left.png",
+      "sc/images/footer001.png",
+      "sc/images/footer002.png",
+      "sc/images/footer003.png",
+      "sc/images/footer04.png",
+      "sc/img/touxiang.png"
+    ],
+    "refer": [
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/shopcar.html",
+      "sc/self.html",
+      "sc/tixian.html"
+    ],
+    "priority": 0
+  },
+  "sc/wuliu.html": {
+    "href": "sc/wuliu.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/index-ph01.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/detail.html"
+    ],
+    "priority": 0
+  },
+  "sc/order.html": {
+    "href": "sc/order.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/classify-ph03.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/detail.html",
+      "sc/wuliu.html"
+    ],
+    "priority": 0
+  },
+  "sc/namechange.html": {
+    "href": "sc/namechange.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/a-icon01.png"
+    ],
+    "refer": [
+      "sc/shopcar.html"
+    ],
+    "priority": 0
+  },
+  "sc/datum.html": {
+    "href": "sc/datum.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/right.png",
+      "sc/images/detail-tou.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/namechange.html"
+    ],
+    "priority": 0
+  },
+  "sc/mycollect.html": {
+    "href": "sc/mycollect.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/js/jaliswall.js",
+      "sc/images/left.png",
+      "sc/images/list-ph01.png",
+      "sc/images/list-ph02.png"
+    ],
+    "refer": [
+      "sc/detail.html"
+    ],
+    "priority": 0
+  },
+  "sc/balance.html": {
+    "href": "sc/balance.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/footer001.png",
+      "sc/images/footer002.png",
+      "sc/images/footer003.png",
+      "sc/images/footer04.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/self.html"
+    ],
+    "priority": 0
+  },
+  "sc/addres.html": {
+    "href": "sc/addres.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png"
+    ],
+    "refer": [
+      "sc/go-address.html"
+    ],
+    "priority": 0
+  },
+  "sc/dinpu.html": {
+    "href": "sc/dinpu.html",
+    "resources": [
+      "sc/js/jquery-1.8.3.min.js",
+      "sc/js/hmt.js",
+      "sc/css/base1.css",
+      "sc/css/common.css",
+      "sc/uploads/10.jpg",
+      "sc/uploads/12.jpg"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "sc/huiyuan.html": {
+    "href": "sc/huiyuan.html",
+    "resources": [
+      "sc/js/jquery-1.8.3.min.js",
+      "sc/js/hmt.js",
+      "sc/css/base.css",
+      "sc/css/base1.css",
+      "sc/css/common.css",
+      "sc/css/style.css",
+      "sc/images/left.png",
+      "sc/images/footer001.png",
+      "sc/images/footer002.png",
+      "sc/images/footer003.png",
+      "sc/images/footer04.png",
+      "sc/img/touxiang.png"
+    ],
+    "refer": [
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/shopcar.html",
+      "sc/self.html"
+    ],
+    "priority": 0
+  },
+  "sc/fx-center.html": {
+    "href": "sc/fx-center.html",
+    "resources": [
+      "sc/js/jquery-1.8.3.min.js",
+      "sc/js/hmt.js",
+      "sc/css/base.css",
+      "sc/css/base1.css",
+      "sc/css/common.css",
+      "sc/css/style.css",
+      "sc/images/left.png",
+      "sc/images/footer001.png",
+      "sc/images/footer002.png",
+      "sc/images/footer003.png",
+      "sc/images/footer04.png",
+      "sc/img/touxiang.png"
+    ],
+    "refer": [
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/shopcar.html",
+      "sc/self.html",
+      "sc/dinpu.html",
+      "sc/huiyuan.html"
+    ],
+    "priority": 0
+  },
+  "sc/gobuy.html": {
+    "href": "sc/gobuy.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/fxbanner.jpg"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/fx-center.html"
+    ],
+    "priority": 0
+  },
+  "sc/go-order.html": {
+    "href": "sc/go-order.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/b-iocn01.png",
+      "sc/images/a-icon02.png",
+      "sc/images/index-ph01.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/wuliu.html",
+      "sc/detail.html"
+    ],
+    "priority": 0
+  },
+  "sc/ordertwo.html": {
+    "href": "sc/ordertwo.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/classify-ph03.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/detail.html",
+      "sc/go-order.html"
+    ],
+    "priority": 0
+  },
+  "sc/orderthree.html": {
+    "href": "sc/orderthree.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/classify-ph03.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/detail.html",
+      "sc/go-order.html"
+    ],
+    "priority": 0
+  },
+  "sc/orderfour.html": {
+    "href": "sc/orderfour.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/classify-ph03.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/detail.html",
+      "sc/wuliu.html",
+      "sc/go-order.html"
+    ],
+    "priority": 0
+  },
+  "sc/assess.html": {
+    "href": "sc/assess.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/detail-iocn001.png",
+      "sc/images/detail-iocn01.png",
+      "sc/images/left.png",
+      "sc/images/detail-pp01.png"
+    ],
+    "refer": [
+      "sc/shopcar.html"
+    ],
+    "priority": 0
+  },
+  "sc/go-assess.html": {
+    "href": "sc/go-assess.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/left.png",
+      "sc/images/b-iocn02.png",
+      "sc/images/a-icon02.png",
+      "sc/images/index-ph01.png"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/assess.html",
+      "sc/detail.html"
+    ],
+    "priority": 0
+  },
+  "sc/self.html": {
+    "href": "sc/self.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/img/touxiang.png",
+      "sc/images/footer001.png",
+      "sc/images/footer002.png",
+      "sc/images/footer003.png",
+      "sc/images/footer04.png",
+      "sc/images/self-icon.png",
+      "sc/images/self-icon01.png",
+      "sc/images/self-icon02.png",
+      "sc/images/self-icon012.png",
+      "sc/images/self-icon04.png",
+      "sc/images/self-icon05.png",
+      "sc/images/self-icon011.png",
+      "sc/images/self-icon013.png",
+      "sc/images/right.png",
+      "sc/images/order-icon01.png",
+      "sc/images/order-icon03.png",
+      "sc/images/order-icon02.png",
+      "sc/images/order-icon04.png"
+    ],
+    "refer": [
+      "sc/login.html",
+      "sc/fx-center1.html",
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/shopcar.html",
+      "sc/self.html",
+      "sc/order.html",
+      "sc/datum.html",
+      "sc/mycollect.html",
+      "sc/balance.html",
+      "sc/addres.html",
+      "sc/gobuy.html",
+      "sc/sign.html",
+      "sc/ordertwo.html",
+      "sc/orderthree.html",
+      "sc/orderfour.html",
+      "sc/go-assess.html"
+    ],
+    "priority": 0
+  },
+  "sc/assort.html": {
+    "href": "sc/assort.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/serach.png",
+      "sc/images/classify01.png",
+      "sc/images/classify02.png",
+      "sc/images/classify03.png",
+      "sc/images/classify04.png",
+      "sc/images/classify05.png",
+      "sc/images/classify06.png",
+      "sc/images/classify07.png",
+      "sc/images/classify08.png",
+      "sc/images/classify09.png",
+      "sc/images/classify-ph01.png",
+      "sc/images/footer001.png",
+      "sc/images/footer02.png",
+      "sc/images/footer003.png",
+      "sc/images/footer004.png",
+      "sc/images/classify-ph02.png",
+      "sc/images/classify-ph03.png",
+      "sc/images/classify-ph04.png",
+      "sc/images/classify-ph05.png"
+    ],
+    "refer": [
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/shopcar.html",
+      "sc/self.html"
+    ],
+    "priority": 0
+  },
+  "sc/shopcar.html": {
+    "href": "sc/shopcar.html",
+    "resources": [
+      "sc/css/loaders.min.css",
+      "sc/css/loading.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/js/jquery.min.js",
+      "sc/images/shopcar-ph01.png",
+      "sc/images/shopcar-icon01.png",
+      "sc/images/footer001.png",
+      "sc/images/footer002.png",
+      "sc/images/footer03.png",
+      "sc/images/footer004.png"
+    ],
+    "refer": [
+      "sc/buy.html",
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/shopcar.html",
+      "sc/self.html"
+    ],
+    "priority": 0
+  },
+  "sc/index.html": {
+    "href": "sc/index.html",
+    "resources": [
+      "sc/js/jquery-1.8.3.min.js",
+      "sc/js/fastclick.js",
+      "sc/js/mui.min.js",
+      "sc/js/hmt.js",
+      "sc/js/swiper/swiper.min.css",
+      "sc/js/swiper/swiper.jquery.min.js",
+      "sc/js/global.js",
+      "sc/js/rem.js",
+      "sc/iconfont/iconfont.css",
+      "sc/css/mui.min.css",
+      "sc/css/all.css",
+      "sc/css/base.css",
+      "sc/css/style.css",
+      "sc/img/hometit1.jpg",
+      "sc/img/hometit2.jpg",
+      "sc/img/hometit3.jpg",
+      "sc/uploads/t4.jpg",
+      "sc/images/footer01.png",
+      "sc/images/footer002.png",
+      "sc/images/footer003.png",
+      "sc/images/footer004.png",
+      "sc/uploads/t1.jpg",
+      "sc/uploads/t3.jpg",
+      "sc/uploads/banner1.jpg",
+      "sc/img/homenav1.png",
+      "sc/img/homenav2.png",
+      "sc/img/homenav3.png",
+      "sc/img/homenav4.png",
+      "sc/img/qnav1.png",
+      "sc/img/qnav2.png",
+      "sc/img/qnav3.png",
+      "sc/img/qnav4.png",
+      "sc/uploads/t2.jpg",
+      "sc/uploads/t5.jpg"
+    ],
+    "refer": [
+      "sc/shopcar.html",
+      "sc/index.html",
+      "sc/assort.html",
+      "sc/self.html"
+    ],
+    "priority": 0
+  }
+}
